@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:rack_n_roll/authService/auth_service.dart';
 import 'package:rack_n_roll/screens/forgotpassword2.dart';
-import 'signup2.dart';
 
 class Forgotpassword1Screen extends StatefulWidget {
   @override
@@ -22,7 +21,10 @@ class _Forgotpassword1 extends State<Forgotpassword1Screen> {
         SnackBar(content: Text('The OTP was sent to your email!'))
       );
 
-      Navigator.pushNamed(context, '/forgotpassword2', arguments: emailController.text);
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (context) => Forgotpassword2Screen(email: email)),
+      );
 
     } catch(e) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -94,7 +96,7 @@ class _Forgotpassword1 extends State<Forgotpassword1Screen> {
                 ),
 
                 // Input Fields
-                _buildTextField("Enter your E-mail", Icons.email_outlined),
+                _buildTextField("Enter your E-mail", Icons.email_outlined, controller: emailController),
                 SizedBox(height: screenHeight * 0.08),
 
                 // Progress Indicator

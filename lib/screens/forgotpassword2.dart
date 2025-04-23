@@ -2,9 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:rack_n_roll/authService/auth_service.dart';
 import 'package:rack_n_roll/screens/forgotpassword3.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
 import 'signup_success.dart';
 
 class Forgotpassword2Screen extends StatefulWidget {
+  final String email;
+
+  Forgotpassword2Screen({required this.email});
+
   @override
   _Forgotpassword2 createState() => _Forgotpassword2();
 }
@@ -13,12 +18,38 @@ class _Forgotpassword2 extends State<Forgotpassword2Screen> {
   List<TextEditingController> otpControllers =
   List.generate(6, (index) => TextEditingController());
   List<FocusNode> otpFocusNodes = List.generate(6, (index) => FocusNode());
-  final TextEditingController OTPController = TextEditingController();
   final authService = AuthService();
 
+
   Future<void> confirmOTP() async {
-    final otpCode = OTPController.text.trim();
-    late String email;
+    final otpCode = otpControllers.map((controller) => controller.text).join();
+
+
+    if (otpCode.length != 6) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Enter a valid 6-digit OTP!')),
+      );
+      return;
+    }
+
+    try {
+      bool otpVerified = await authService.confirmPassOtp(otpCode, widget.email);
+
+      if (otpVerified) {
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => Forgotpassword3Screen(email: widget.email)),
+        );
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Invalid OTP. Please try again!')),
+        );
+      }
+    } catch (e) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Error verifying OTP: $e')),
+      );
+    }
   }
 
   
@@ -185,22 +216,7 @@ class _Forgotpassword2 extends State<Forgotpassword2Screen> {
                   borderRadius: BorderRadius.circular(25),
                 ),
               ),
-              onPressed: () {
-                // Combine OTP digits
-                String otpCode =
-                otpControllers.map((controller) => controller.text).join();
-                print("Entered OTP: $otpCode");
-
-                if (otpCode.length == 6) {
-                  // Proceed with verification
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(builder: (context) => Forgotpassword3Screen()),
-                  );
-                } else {
-                  print("Enter a valid OTP.");
-                }
-              },
+              onPressed: confirmOTP,
               child: Text("Next",
                   style: TextStyle(
                       fontSize: 15,

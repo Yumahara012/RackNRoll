@@ -44,6 +44,20 @@ class AuthService {
     }
   }
 
+  Future<bool> confirmPassOtp(String otp, String email) async {
+    try {
+      await _supabase.auth.verifyOTP(
+        type: OtpType.recovery,
+        token: otp,
+        email: email,
+      );
+      return true;
+    } catch (e) {
+      print("OTP verification failed: $e");
+      return false;
+    }
+  }
+
   Future<void> sendOTPforPasswordReset(String email) async{
     return await _supabase.auth.resetPasswordForEmail(email);
   }

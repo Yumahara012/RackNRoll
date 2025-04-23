@@ -3,6 +3,10 @@ import 'package:rack_n_roll/authService/auth_service.dart';
 import 'package:rack_n_roll/screens/forgot_success.dart';
 
 class Forgotpassword3Screen extends StatefulWidget {
+  final String email;
+
+  Forgotpassword3Screen({required this.email});
+
   @override
   _Forgotpassword3ScreenState createState() => _Forgotpassword3ScreenState();
 }
@@ -10,19 +14,39 @@ class Forgotpassword3Screen extends StatefulWidget {
 class _Forgotpassword3ScreenState extends State<Forgotpassword3Screen> {
   bool _isObscured = true;
   final authService = AuthService();
-  final TextEditingController emailController = TextEditingController();
   final TextEditingController passwordController = TextEditingController();
   final TextEditingController confirmPasswordController = TextEditingController();
 
 
-  Future<void> changePassword() async {
-    final email = emailController.text.trim();
-    final password = passwordController.text.trim();
-    final confirmPassword = passwordController.text.trim();
+Future<void> changePassword() async {
+  final password = passwordController.text.trim();
+  final confirmPassword = confirmPasswordController.text.trim();
 
-
-
+  if (password.isEmpty || confirmPassword.isEmpty) {
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Please fill in both fields.")));
+    return;
   }
+
+  if (password != confirmPassword) {
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Passwords do not match.")));
+    return;
+  }
+
+  try {
+    final response = await authService.changePassword(password);
+    if (response.user != null) {
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (context) => ForgotSuccessScreen()),
+      );
+    } else {
+      ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Failed to update password.")));
+    }
+  } catch (e) {
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text("Error: $e")));
+  }
+}
+
 
 
   @override
@@ -91,7 +115,7 @@ class _Forgotpassword3ScreenState extends State<Forgotpassword3Screen> {
                 SizedBox(height: screenHeight * 0.015),
 
                 // Password Input Field
-                _buildTextField("Confirm New Password", Icons.lock_outline, passwordController, isPassword: true),
+                _buildTextField("Confirm New Password", Icons.lock_outline, confirmPasswordController, isPassword: true),
                 SizedBox(height: screenHeight * 0.06),
 
                 // Progress Indicator
@@ -122,12 +146,7 @@ class _Forgotpassword3ScreenState extends State<Forgotpassword3Screen> {
                       borderRadius: BorderRadius.circular(25),
                     ),
                   ),
-                  onPressed: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(builder: (context) => ForgotSuccessScreen()), // Update to next screen if needed
-                    );
-                  },
+                  onPressed: changePassword ,
                   child: Text("Reset Password", style: TextStyle(fontSize: 15, color: Colors.white, fontWeight: FontWeight.bold)),
                 ),
               ],
