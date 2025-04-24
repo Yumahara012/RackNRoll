@@ -10,7 +10,7 @@ class ProfileScreen extends StatelessWidget {
     await authService.signOut();
 
     ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text('Log Out Successful')),
+      SnackBar(content: Text('Whaaaaat')),
     );
 
     Navigator.pushReplacement(
