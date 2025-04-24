@@ -1,10 +1,10 @@
 # rack_n_roll
 
-A new Flutter project.
+Rack N Roll Flutter Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an Arduino Project that automatically reracks if rain is detected.
 
 A few resources to get you started if this is your first Flutter project:
 
