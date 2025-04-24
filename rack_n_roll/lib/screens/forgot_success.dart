@@ -44,7 +44,7 @@ class _ForgotSuccessScreen extends State<ForgotSuccessScreen> {
             Align(
               alignment: Alignment.center,
               child: Text(
-                "Password Changed!",
+                "Password has been Changed!",
                 textAlign: TextAlign.center,
                 style: TextStyle(
                     fontSize: 25,
