@@ -39,7 +39,11 @@
       <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/runConfigurations/main_dart.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rack_n_roll/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/kotlin/com/example/rack_n_roll/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/android/rack_n_roll_android.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/build/0924119a4e9238a9cba9bde579690cbc/_composite.stamp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/build/0924119a4e9238a9cba9bde579690cbc/gen_dart_plugin_registrant.stamp" afterDir="false" />
@@ -699,6 +703,7 @@
       <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/shaders/ink_sparkle.frag" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/build/last_build_run.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/ios/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/lib/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/lib/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/lib/.idea/lib.iml" afterDir="false" />
@@ -706,32 +711,14 @@
       <change afterPath="$PROJECT_DIR$/rack_n_roll/lib/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/lib/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/rack_n_roll/rack_n_roll.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgot_success.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgot_success.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword1.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword2.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword3.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/login.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/profile_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/profile_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup1.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup2.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup_success.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup_success.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/.metadata" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/analysis_options.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/analysis_options.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/kotlin/com/example/rack_n_roll/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/kotlin/com/example/rack_n_roll/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/values-night/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/android/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/gradle.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
@@ -751,7 +738,6 @@
       <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/signup1.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/signup1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/success.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/success.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/Debug.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/Release.xcconfig" afterDir="false" />
@@ -855,7 +841,6 @@
       <change beforePath="$PROJECT_DIR$/rack_n_roll/web/icons/Icon-maskable-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/web/icons/Icon-maskable-512.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/web/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/web/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/flutter/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/flutter/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
@@ -995,7 +980,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746069418669</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated Commit (04/23/2025)">
+      <option name="closed" value="true" />
+      <created>1746076682943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746076682943</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1024,6 +1017,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated Commit (04/23/2025)" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated Commit (04/23/2025)" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
