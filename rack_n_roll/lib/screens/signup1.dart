@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rack_n_roll/screens/login.dart';
+//import 'package:rack_n_roll/screens/login.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import '../authService/auth_service.dart';
 import 'signup2.dart';
@@ -209,7 +209,7 @@ class _Signup1ScreenState extends State<Signup1Screen> {
             ? IconButton(
           icon: Icon(
             _isObscured ? Icons.visibility_off : Icons.visibility,
-            color: Colors.grey.withOpacity(0.8),
+            color: Color.fromRGBO(128, 128, 128, 0.8),
           ),
           onPressed: () {
             setState(() {
@@ -217,7 +217,7 @@ class _Signup1ScreenState extends State<Signup1Screen> {
             });
           },
         )
-            : Icon(icon, color: Colors.grey.withOpacity(0.8)),
+            : Icon(icon, color: Color.fromRGBO(128, 128, 128, 0.8)),
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(15),
           borderSide: BorderSide.none,

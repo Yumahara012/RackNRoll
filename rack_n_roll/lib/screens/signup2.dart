@@ -123,7 +123,7 @@ class _Signup2ScreenState extends State<Signup2Screen> {
                       borderRadius: BorderRadius.circular(8),
                       boxShadow: [
                         BoxShadow(
-                          color: Colors.black.withOpacity(0.2),
+                          color: Color.fromRGBO(0, 0, 0, 0.2),
                           spreadRadius: 1,
                           blurRadius: 4,
                           offset: Offset(0, 4),

@@ -170,7 +170,7 @@ Future<void> changePassword() async {
             ? IconButton(
           icon: Icon(
             _isObscured ? Icons.visibility_off : Icons.visibility,
-            color: Colors.grey.withOpacity(0.8),
+            color: Color.fromRGBO(128, 128, 128, 0.8),
           ),
           onPressed: () {
             setState(() {

@@ -154,7 +154,7 @@ class _Forgotpassword1 extends State<Forgotpassword1Screen> {
             ? IconButton(
           icon: Icon(
             _isObscured ? Icons.visibility_off : Icons.visibility,
-            color: Colors.grey.withOpacity(0.8),
+            color: Color.fromRGBO(128, 128, 128, 0.8),
           ),
           onPressed: () {
             setState(() {
@@ -162,7 +162,7 @@ class _Forgotpassword1 extends State<Forgotpassword1Screen> {
             });
           },
         )
-            : Icon(icon, color: Colors.grey.withOpacity(0.8)),
+            : Icon(icon, color: Color.fromRGBO(128, 128, 128, 0.8)),
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(15),
           borderSide: BorderSide.none,

@@ -190,7 +190,7 @@ class _LoginScreenState extends State<LoginScreen> {
             ? IconButton(
           icon: Icon(
             _isObscured ? Icons.visibility_off : Icons.visibility,
-            color: Colors.grey.withOpacity(0.8),
+            color: Color.fromRGBO(128, 128, 128, 0.8),
           ),
           onPressed: () {
             setState(() {
@@ -198,7 +198,7 @@ class _LoginScreenState extends State<LoginScreen> {
             });
           },
         )
-            : Icon(icon, color: Colors.grey.withOpacity(0.8)),
+            : Icon(icon, color: Color.fromRGBO(128, 128, 128, 0.8)),
         border: OutlineInputBorder(
           borderRadius: BorderRadius.circular(15),
           borderSide: BorderSide.none,

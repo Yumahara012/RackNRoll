@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:rack_n_roll/authService/auth_service.dart';
+//import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:rack_n_roll/screens/login.dart';
 
 class ProfileScreen extends StatefulWidget {
-  String profilePictureUrl = ''; // initialize empty
+  final String profilePictureUrl = ''; // initialize empty
+
 
   @override
   _ProfileScreenState createState() => _ProfileScreenState();

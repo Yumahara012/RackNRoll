@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:rack_n_roll/authService/auth_service.dart';
 import 'package:rack_n_roll/screens/forgotpassword3.dart';
-import 'package:supabase_flutter/supabase_flutter.dart';
-import 'signup_success.dart';
+//import 'package:supabase_flutter/supabase_flutter.dart';
+//import 'signup_success.dart';
 
 class Forgotpassword2Screen extends StatefulWidget {
   final String email;
@@ -58,7 +58,7 @@ class _Forgotpassword2 extends State<Forgotpassword2Screen> {
   Widget build(BuildContext context) {
     double screenWidth = MediaQuery.of(context).size.width;
     double screenHeight = MediaQuery.of(context).size.height;
-    double otpBoxSize = screenWidth * 0.12; // Reduce size slightly to prevent overflow
+    //double otpBoxSize = screenWidth * 0.12; // Reduce size slightly to prevent overflow
 
     return Scaffold(
       backgroundColor: Colors.white,
@@ -117,11 +117,11 @@ class _Forgotpassword2 extends State<Forgotpassword2Screen> {
                     width: screenWidth * 0.125, // Slightly increased size
                     height: screenWidth * 0.12,
                     decoration: BoxDecoration(
-                      color: Color(0xFFF5F5FA), // Background color
+                      color: const Color(0xFFF5F5FA), // Background color
                       borderRadius: BorderRadius.circular(8),
                       boxShadow: [
                         BoxShadow(
-                          color: Colors.black.withOpacity(0.2),
+                          color: Color.fromRGBO(0, 0, 0, 0.2),
                           spreadRadius: 1,
                           blurRadius: 4,
                           offset: Offset(0, 4),
