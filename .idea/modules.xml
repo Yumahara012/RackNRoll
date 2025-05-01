@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RackNRoll/rack_n_roll/rack_n_roll.iml" filepath="$PROJECT_DIR$/RackNRoll/rack_n_roll/rack_n_roll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RackNRoll/rack_n_roll/android/rack_n_roll_android.iml" filepath="$PROJECT_DIR$/RackNRoll/rack_n_roll/android/rack_n_roll_android.iml" />
+    </modules>
+  </component>
+</project>

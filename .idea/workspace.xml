@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="015bdb95-42ca-4813-889a-cc841cdb0069" name="Changes" comment="Updated Commit (04/23/2025)">
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/dartpad/web_plugin_registrant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/extension_discovery/devtools.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/.filecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/app.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/dart_build.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/dart_build.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/dart_build_result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/debug_android_application.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/flutter_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/gen_dart_plugin_registrant.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/gen_localizations.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/install_code_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/install_code_assets.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/kernel_snapshot_program.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/kernel_snapshot_program.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/native_assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/flutter_build/aea4a379e5c32a104ee43567211c905f/outputs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/package_config_subset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.dart_tool/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/appInsightsSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/deviceManager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/runConfigurations/main_dart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/android/rack_n_roll_android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/0924119a4e9238a9cba9bde579690cbc/_composite.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/0924119a4e9238a9cba9bde579690cbc/gen_dart_plugin_registrant.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/0924119a4e9238a9cba9bde579690cbc/gen_localizations.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/363fa9c3a9ff75cb5d79da710c2aaeef/_composite.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/363fa9c3a9ff75cb5d79da710c2aaeef/gen_dart_plugin_registrant.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/363fa9c3a9ff75cb5d79da710c2aaeef/gen_localizations.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/551ce5a54b0b0db1b95e9709ab1b8549/_composite.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/551ce5a54b0b0db1b95e9709ab1b8549/gen_dart_plugin_registrant.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/551ce5a54b0b0db1b95e9709ab1b8549/gen_localizations.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/apk_ide_redirect_file/debug/createDebugApkListingFileRedirect/redirect.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/app_metadata/debug/writeDebugAppMetadata/app-metadata.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/AssetManifest.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/NOTICES.Z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/NativeAssetsManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/done.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/loading.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/otp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/reset1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/signup1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/shaders/ink_sparkle.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compatible_screen_manifest/debug/createDebugCompatibleScreenManifests/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/processDebugResources/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/AssetManifest.bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/AssetManifest.json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/FontManifest.json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/NOTICES.Z.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/NativeAssetsManifest.json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/assets/done.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/assets/fb.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/assets/google.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/assets/loading.json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/assets/logo.jpg.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/assets/otp1.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/assets/reset1.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/assets/signup1.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/assets/success.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/assets/x.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/fonts/MaterialIcons-Regular.otf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/isolate_snapshot_data.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/kernel_blob.bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/shaders/ink_sparkle.frag.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/vm_snapshot_data.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/build_model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/configure_command.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/configure_stderr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/configure_stdout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_135_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_137_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_138_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_172_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_208_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_209_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_210_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_249_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_279_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_326_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_352_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_406_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_480_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_59_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_61_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/generate_cxx_metadata_62_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/arm64-v8a/metadata_generation_record.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/build_model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/configure_command.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/configure_stderr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/configure_stdout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_135_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_137_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_138_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_207_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_208_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_249_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_281_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_329_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_352_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_406_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_480_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_60_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_61_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_62_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/generate_cxx_metadata_77_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/armeabi-v7a/metadata_generation_record.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/build_model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/configure_command.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/configure_stderr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/configure_stdout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_135_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_137_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_138_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_207_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_210_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_247_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_281_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_329_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_352_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_406_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_480_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_59_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_60_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_61_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_62_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/generate_cxx_metadata_77_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86/metadata_generation_record.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/build_model.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/configure_command.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/configure_stderr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/configure_stdout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_135_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_137_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_138_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_208_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_210_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_247_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_281_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_329_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_352_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_406_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_480_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_60_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_61_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_62_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/generate_cxx_metadata_77_timing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/cxx/Debug/5t4v3h28/logs/x86_64/metadata_generation_record.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/dirs_bucket_0/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/dirs_bucket_1/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/jar_20af8642d183faf4acb7b2125ffc1c40a41ec322a322f3999d1b839d1f1962d2_bucket_0/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/desugar_graph/debug/dexBuilderDebug/out/currentProject/jar_20af8642d183faf4acb7b2125ffc1c40a41ec322a322f3999d1b839d1f1962d2_bucket_1/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/dex_archive_input_jar_hashes/debug/dexBuilderDebug/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/dex_number_of_buckets_file/debug/dexBuilderDebug/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/.last_build_id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/NOTICES.Z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/NativeAssetsManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/assets/done.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/assets/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/assets/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/assets/loading.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/assets/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/assets/otp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/assets/reset1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/assets/signup1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/assets/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/assets/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/shaders/ink_sparkle.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/flutter/debug/libs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/+GF+Xq0QxqlbsFfIV4NIl2B1f_o=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/+Qd6uTs03J7XnSH5t+aYqbqdGpk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/+gs7Zbd6+pSgbkXCIk8ZrhijnKc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/41ACnXtR73DM4eeE85e6xcjjG_0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/6k0myWid+r3SwR06D+SAHYSw5Gw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/8ByA_WBlWLco91i2catXtHEnq_8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/AIYEf8di7TA_siYhtPw49iKah8A=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Cu3JETlmT3tBp0wCth1Z08NS4dk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/DFjYvXawFPVy2_zoZV7w910Q7pI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/FmjHjHx1yvZgLE6d9+s5fcN0Aj8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/FwL27Df1_IzP1+cCV22p32qAmc4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Gb9m21n0PKdl9e4wHvjbVakhhYA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/GchprazI42ATYcVdIt4ujmG7sj8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/H9bhKmgAEIgIA+6yOnL3g9bdq0M=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Kb0otWfAkbwrZwF9dit8+8T3xUQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/LoqiB7yxTH9oeAsUfJVN0z6Knbw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/MBaClqWZWPgxVChNc1Ou1tjokjI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/NihQ41eg3___c6LE8uLMn4Fsln4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/O31SLm7Xx0ziKDw03sQjH_dn+9o=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/P6D__DQ_Nh_IlTxEpGYNOflR050=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Qc_uSuk1IcEbWx6qYaR8uLGz8b8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Scqgf3cOyju81zfePzOTeaXtGiQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/T6lGF5BWHtHoWckCZza6r+eeCjc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/TPJogC9eknZEycoGPJoqmKBdahY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/U6C0tBXem_oTpFv3hsLVNZV_xtY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/UeSTVCdckwtCVo9XysEAQ1E_yXc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/UrGGrEM2fz6RY_MSKcCJirlmacw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/VEkiFhJ74JoU0vHsrNklYSUye4A=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/WQJUhjz0TmRIEIOm3oAIWRiYFkY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/X0XCLaTY74P1Y5SPab6IcND+jXI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/XREti+FO6xdsfc+LIjCbEvom8m0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Y3r81JZ9++KjvSfawFHjqs9w4+8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ZMd4mt2J+unnhOQWoRfxob4D+wA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/bQv+j2kEesXj6b3yJHHsZ29TMSk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/dq3OowBkbUi9TKcYbP+ou3jiFVQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/l6J1hkSAVXMFWB50KCkmOtLgVlk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/scbo7vkMgpqc5KBLbKYR9bdCmIM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/vJuLvzYZkmORDl_8aEi8yAEoU98=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/wNMdMBrpJlh5Z9Sg_ibMuTWhqHo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/x3M68GjxtPMWWmCSsX0b9V70s2M=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/xY3LZPoFny_d8O3bG4QF2nE_aos=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/xjLAXm3q3wqQN8eSjLnsRIkvueo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/zNk0kYVbelemg25JDF149uwn2bE=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-af/values-af.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-am/values-am.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-as/values-as.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-az/values-az.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-be/values-be.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bn/values-bn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bs/values-bs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-da/values-da.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-de/values-de.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-el/values-el.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es/values-es.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-et/values-et.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-eu/values-eu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gl/values-gl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gu/values-gu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hy/values-hy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-in/values-in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-is/values-is.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-it/values-it.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-kk/values-kk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-km/values-km.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-kn/values-kn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ky/values-ky.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lo/values-lo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mk/values-mk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ml/values-ml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mn/values-mn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mr/values-mr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ms/values-ms.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-my/values-my.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ne/values-ne.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-or/values-or.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pa/values-pa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-si/values-si.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sq/values-sq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ta/values-ta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-te/values-te.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-th/values-th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ur/values-ur.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uz/values-uz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/mergeDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/java_res/debug/processDebugJavaRes/out/META-INF/app_debug.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/flutter/plugins/GeneratedPluginRegistrant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/linked_resources_binary_format/debug/processDebugResources/linked-resources-binary-format-debug.ap_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/linked_resources_binary_format/debug/processDebugResources/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/local_only_symbol_list/debug/parseDebugLocalResources/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/manifest_merge_blame_file/debug/processDebugMainManifest/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_java_res/debug/mergeDebugJavaResource/base.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_manifest/debug/processDebugMainManifest/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_manifests/debug/processDebugManifest/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_manifests/debug/processDebugManifest/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_native_libs/debug/mergeDebugNativeLibs/out/lib/x86_64/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/drawable-v21_launch_background.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/mipmap-hdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/mipmap-mdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/mipmap-xhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/mipmap-xxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/mipmap-xxxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-af_values-af.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-am_values-am.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ar_values-ar.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-as_values-as.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-az_values-az.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-be_values-be.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-bg_values-bg.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-bn_values-bn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-bs_values-bs.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ca_values-ca.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-cs_values-cs.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-da_values-da.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-de_values-de.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-el_values-el.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-en-rAU_values-en-rAU.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-en-rCA_values-en-rCA.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-en-rGB_values-en-rGB.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-en-rIN_values-en-rIN.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-en-rXC_values-en-rXC.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-es-rUS_values-es-rUS.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-es_values-es.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-et_values-et.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-eu_values-eu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-fa_values-fa.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-fi_values-fi.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-fr-rCA_values-fr-rCA.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-fr_values-fr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-gl_values-gl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-gu_values-gu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-hi_values-hi.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-hr_values-hr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-hu_values-hu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-hy_values-hy.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-in_values-in.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-is_values-is.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-it_values-it.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-iw_values-iw.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ja_values-ja.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ka_values-ka.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-kk_values-kk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-km_values-km.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-kn_values-kn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ko_values-ko.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ky_values-ky.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-lo_values-lo.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-lt_values-lt.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-lv_values-lv.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-mk_values-mk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ml_values-ml.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-mn_values-mn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-mr_values-mr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ms_values-ms.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-my_values-my.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-nb_values-nb.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ne_values-ne.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-night-v8_values-night-v8.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-nl_values-nl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-or_values-or.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-pa_values-pa.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-pl_values-pl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-pt-rBR_values-pt-rBR.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-pt-rPT_values-pt-rPT.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-pt_values-pt.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ro_values-ro.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ru_values-ru.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-si_values-si.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-sk_values-sk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-sl_values-sl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-sq_values-sq.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-sr_values-sr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-sv_values-sv.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-sw_values-sw.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ta_values-ta.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-te_values-te.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-th_values-th.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-tl_values-tl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-tr_values-tr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-uk_values-uk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ur_values-ur.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-uz_values-uz.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-v21_values-v21.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-vi_values-vi.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-zh-rCN_values-zh-rCN.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-zh-rHK_values-zh-rHK.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-zh-rTW_values-zh-rTW.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values-zu_values-zu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res/debug/mergeDebugResources/values_values.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/mergeDebugResources.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-am.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-as.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-az.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-b+sr+Latn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-bg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-bn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-bs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-cs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-el.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-en-rAU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-en-rCA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-en-rGB.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-en-rIN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-en-rXC.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-es-rUS.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-et.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-eu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-fi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-fr-rCA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-gl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-gu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-hr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-hu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-hy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-is.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-it.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-iw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ja.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ka.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-kk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-km.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-kn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ko.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ky.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-lo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-lt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-lv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-mk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-mn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-mr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-my.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-nb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-night-v8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-or.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-pa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-pl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-pt-rBR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-pt-rPT.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-pt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-si.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-sk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-sl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-sq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-sr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-sv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-te.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-th.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-tl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-tr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-uk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ur.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-uz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-v21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-vi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-zh-rCN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-zh-rHK.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-zh-rTW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-zu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/single/mergeDebugResources.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/navigation_json/debug/extractDeepLinksDebug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/nested_resources_validation_report/debug/generateDebugResources/nestedResourcesValidationReport.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/packaged_manifests/debug/processDebugManifestForPackage/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/packaged_manifests/debug/processDebugManifestForPackage/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/packaged_res/debug/packageDebugResources/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/packaged_res/debug/packageDebugResources/mipmap-hdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/packaged_res/debug/packageDebugResources/mipmap-mdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxhdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/packaged_res/debug/packageDebugResources/mipmap-xxxhdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/packaged_res/debug/packageDebugResources/values-night-v8/values-night-v8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/packaged_res/debug/packageDebugResources/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/project_dex_archive/debug/dexBuilderDebug/out/com/example/rack_n_roll/MainActivity.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/project_dex_archive/debug/dexBuilderDebug/out/da8d096b942b82f29666dae8560a13be95e433b2f5f509507cb1b216df524b98_0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/project_dex_archive/debug/dexBuilderDebug/out/da8d096b942b82f29666dae8560a13be95e433b2f5f509507cb1b216df524b98_1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/project_dex_archive/debug/dexBuilderDebug/out/io/flutter/plugins/GeneratedPluginRegistrant.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/runtime_symbol_list/debug/processDebugResources/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/signing_config_versions/debug/writeDebugSigningConfigVersions/signing-config-versions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/source_set_path_map/debug/mapDebugSourceSetPaths/file-map.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/stable_resource_ids_file/debug/processDebugResources/stableIds.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/stripped_native_libs/debug/stripDebugDebugSymbols/out/lib/x86_64/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/intermediates/symbol_list_with_package_name/debug/processDebugResources/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/cacheable/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/kotlin/compileDebugKotlin/local-state/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/outputs/apk/debug/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/outputs/flutter-apk/app-debug.apk.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/tmp/kotlin-classes/debug/com/example/rack_n_roll/MainActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/app/tmp/packJniLibsflutterBuildDebug/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/AssetManifest.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/AssetManifest.bin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/NOTICES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/done.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/images/Rack_BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/images/Roll_BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/images/icontest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/images/splashtest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/images/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/loading.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/otp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/reset1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/signup1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/assets/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/flutter_assets/shaders/ink_sparkle.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/build/last_build_run.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/lib/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/lib/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/lib/.idea/lib.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/lib/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/lib/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/lib/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rack_n_roll/rack_n_roll.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgot_success.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgot_success.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgotpassword3.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/profile_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/profile_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup_success.dart" beforeDir="false" afterPath="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/signup_success.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/analysis_options.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/analysis_options.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/kotlin/com/example/rack_n_roll/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/kotlin/com/example/rack_n_roll/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/values-night/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/android/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/android/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/done.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/done.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/fb.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/fb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/google.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/google.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/images/Rack_BG.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/images/Rack_BG.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/images/Roll_BG.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/images/Roll_BG.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/images/icontest.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/images/icontest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/images/splashtest.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/images/splashtest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/images/test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/images/test.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/loading.json" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/loading.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/otp1.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/otp1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/reset1.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/reset1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/signup1.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/signup1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/success.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/success.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/assets/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/assets/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/ios/RunnerTests/RunnerTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/authService/auth_gate.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/authService/auth_gate.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/authService/auth_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/authService/auth_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/forgot_success.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/forgot_success.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/forgotpassword1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/forgotpassword1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/forgotpassword2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/forgotpassword2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/forgotpassword3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/forgotpassword3.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/history_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/history_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/profile_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/profile_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/signup1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/signup1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/signup2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/signup2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/signup_success.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/signup_success.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/splashscreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/splashscreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/screens/welcome.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/screens/welcome.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/widgets/custom_bottom_navbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/widgets/custom_bottom_navbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/lib/widgets/custom_toggle_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/lib/widgets/custom_toggle_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/linux/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/linux/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/linux/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/linux/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/linux/flutter/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/linux/runner/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/linux/runner/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/linux/runner/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/linux/runner/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/linux/runner/my_application.cc" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/linux/runner/my_application.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/linux/runner/my_application.h" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/linux/runner/my_application.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Configs/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/DebugProfile.entitlements" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/MainFlutterWindow.swift" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Release.entitlements" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/Runner/Release.entitlements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/macos/RunnerTests/RunnerTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/web/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/web/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/web/icons/Icon-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/web/icons/Icon-192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/web/icons/Icon-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/web/icons/Icon-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/web/icons/Icon-maskable-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/web/icons/Icon-maskable-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/web/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/flutter/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/Runner.rc" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/Runner.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/flutter_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/flutter_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/flutter_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/resource.h" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/resource.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/resources/app_icon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/runner.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/utils.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/utils.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/utils.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/win32_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/win32_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rack_n_roll/windows/runner/win32_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/rack_n_roll/windows/runner/win32_window.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RackNRoll" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yumahara012&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yumahara012/RackNRoll.git&quot;,
+    &quot;accountId&quot;: &quot;491c2570-38bd-49c8-b426-c43d789d0f8a&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2uOjGLSK6p3bhH58UnyhkGdfZEG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sinuk/StudioProjects/rack_n_roll&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sinuk\StudioProjects\rack_n_roll\assets\images" />
+      <recent name="D:\rack_n_roll\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sinuk\StudioProjects\rack_n_roll\RackNRoll\rack_n_roll" />
+      <recent name="D:\rack_n_roll\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="015bdb95-42ca-4813-889a-cc841cdb0069" name="Changes" comment="" />
+      <created>1742126451429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742126451429</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updated Commit (04/23/2025)">
+      <option name="closed" value="true" />
+      <created>1745420745469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745420745469</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated Commit (04/23/2025)">
+      <option name="closed" value="true" />
+      <created>1745515175086</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745515175086</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated Commit (04/23/2025)">
+      <option name="closed" value="true" />
+      <created>1745515216454</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745515216454</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated Commit (04/23/2025)">
+      <option name="closed" value="true" />
+      <created>1746069418669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746069418669</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Commit (04/23/2025)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Commit (04/23/2025)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/RackNRoll/rack_n_roll/lib/screens/forgot_success.dart</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
