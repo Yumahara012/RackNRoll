@@ -2,9 +2,20 @@ import 'package:flutter/material.dart';
 import 'package:rack_n_roll/authService/auth_service.dart';
 import 'package:rack_n_roll/screens/login.dart';
 
+class ProfileScreen extends StatefulWidget {
+  String profilePictureUrl = ''; // initialize empty
 
-class ProfileScreen extends StatelessWidget {
+  @override
+  _ProfileScreenState createState() => _ProfileScreenState();
+}
+
+class _ProfileScreenState extends State<ProfileScreen> {
   final authService = AuthService();
+
+  // Dummy initial info, replace with real user data fetch later
+  String address = "Sta. Mesa, Manila";
+  String contactNumber = "0912-345-6789";
+  String profilePictureUrl = ''; // <- MOVED here to _ProfileScreenState
 
   void logOut(BuildContext context) async {
     await authService.signOut();
@@ -16,6 +27,75 @@ class ProfileScreen extends StatelessWidget {
     Navigator.pushReplacement(
       context,
       MaterialPageRoute(builder: (context) => LoginScreen()),
+    );
+  }
+
+  void showEditDialog(BuildContext context) {
+    final addressController = TextEditingController(text: address);
+    final contactController = TextEditingController(text: contactNumber);
+
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: Text('Edit Information'),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            TextField(
+              controller: addressController,
+              decoration: InputDecoration(labelText: 'Address'),
+            ),
+            TextField(
+              controller: contactController,
+              decoration: InputDecoration(labelText: 'Contact Number'),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: Text('Cancel'),
+          ),
+          ElevatedButton(
+            onPressed: () {
+              setState(() {
+                address = addressController.text;
+                contactNumber = contactController.text;
+              });
+              Navigator.pop(context);
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(content: Text('Information Updated')),
+              );
+              // TODO: Save changes to your database (Supabase update)
+            },
+            child: Text('Save'),
+          ),
+        ],
+      ),
+    );
+  }
+
+  // 🔥 NEW: Build Profile Picture (Dynamic)
+  Widget _buildProfilePicture() {
+    return Stack(
+      children: [
+        CircleAvatar(
+          radius: 65,
+          backgroundImage: profilePictureUrl.isNotEmpty
+              ? NetworkImage(profilePictureUrl)
+              : AssetImage('assets/images/default_avatar.png') as ImageProvider,
+          backgroundColor: Colors.grey[300],
+        ),
+        Positioned(
+          bottom: 0,
+          right: 0,
+          child: CircleAvatar(
+            radius: 20,
+            backgroundColor: Colors.white,
+            child: Icon(Icons.border_color_outlined, size: 20, color: Colors.black),
+          ),
+        ),
+      ],
     );
   }
 
@@ -47,39 +127,18 @@ class ProfileScreen extends StatelessWidget {
             child: ClipPath(
               clipper: CurvedHeaderClipper(),
               child: Container(
-                height: 180, // Adjust the height of the curve
+                height: 180,
                 color: Color(0xFF4C80B8),
               ),
             ),
           ),
-
-
           Column(
             children: [
-              SizedBox(height: 90), // Space for the curved background
-
-
-              // Profile Picture
+              SizedBox(height: 90),
               Center(
                 child: Column(
                   children: [
-                    Stack(
-                      children: [
-                        CircleAvatar(
-                          radius: 65,
-                          backgroundImage: AssetImage('assets/images/test.jpg'),
-                        ),
-                        Positioned(
-                          bottom: 0,
-                          right: 0,
-                          child: CircleAvatar(
-                            radius: 20,
-                            backgroundColor: Colors.white,
-                            child: Icon(Icons.border_color_outlined, size: 20, color: Colors.black),
-                          ),
-                        ),
-                      ],
-                    ),
+                    _buildProfilePicture(), // <<<<<<<< REPLACED old Stack here
                     SizedBox(height: 10),
                     Text(
                       "Hi, Carla Angela",
@@ -89,15 +148,12 @@ class ProfileScreen extends StatelessWidget {
                 ),
               ),
               SizedBox(height: 40),
-
-
               // Account Info Section
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 16),
                 child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start, // Align text to the left
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    // Account Information Title
                     Text(
                       "Account Information",
                       style: TextStyle(
@@ -105,10 +161,8 @@ class ProfileScreen extends StatelessWidget {
                         color: Colors.black87,
                       ),
                     ),
-                    SizedBox(height: 8), // Add some spacing between text and container
+                    SizedBox(height: 8),
 
-
-                    // Account Info Container
                     Container(
                       padding: EdgeInsets.all(16),
                       decoration: BoxDecoration(
@@ -125,9 +179,20 @@ class ProfileScreen extends StatelessWidget {
                       child: Column(
                         children: [
                           _buildInfoRow(Icons.assignment_ind, "Name", "Carla Angela Tagle"),
-                          _buildInfoRow(Icons.home, "Address", "Sta. Mesa, Manila"),
-                          _buildInfoRow(Icons.phone, "Contact Number", "0912-345-6789"),
+                          _buildInfoRow(Icons.home, "Address", address),
+                          _buildInfoRow(Icons.phone, "Contact Number", contactNumber),
                           _buildInfoRow(Icons.email, "Email", "qcabtagle@tip.edu.ph"),
+                          SizedBox(height: 16),
+                          ElevatedButton(
+                            onPressed: () => showEditDialog(context),
+                            style: ElevatedButton.styleFrom(
+                              backgroundColor: Color(0xFF4C80B8),
+                              shape: RoundedRectangleBorder(
+                                borderRadius: BorderRadius.circular(30),
+                              ),
+                            ),
+                            child: Text('Edit Address & Contact', style: TextStyle(color: Colors.white)),
+                          ),
                         ],
                       ),
                     ),
@@ -135,9 +200,7 @@ class ProfileScreen extends StatelessWidget {
                 ),
               ),
 
-
               Spacer(),
-
 
               // Logout Button
               Padding(
@@ -166,14 +229,13 @@ class ProfileScreen extends StatelessWidget {
     );
   }
 
-
   // Helper Widget for Info Rows
   Widget _buildInfoRow(IconData icon, String label, String value) {
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 8),
       child: Row(
         children: [
-          Icon(icon, color: Color(0xFF4C80B8),),
+          Icon(icon, color: Color(0xFF4C80B8)),
           SizedBox(width: 10),
           Expanded(
             child: Text(
@@ -181,9 +243,13 @@ class ProfileScreen extends StatelessWidget {
               style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
             ),
           ),
-          Text(
-            value,
-            style: TextStyle(fontSize: 16),
+          Flexible(
+            child: Text(
+              value,
+              textAlign: TextAlign.right,
+              style: TextStyle(fontSize: 16),
+              overflow: TextOverflow.ellipsis,
+            ),
           ),
         ],
       ),
@@ -191,22 +257,20 @@ class ProfileScreen extends StatelessWidget {
   }
 }
 
-
-// Custom Clipper for the Curved Background
+// Custom Clipper for Curved Header
 class CurvedHeaderClipper extends CustomClipper<Path> {
   @override
   Path getClip(Size size) {
     Path path = Path();
-    path.lineTo(0, size.height - 50); // Start at the bottom left
+    path.lineTo(0, size.height - 50);
     path.quadraticBezierTo(
-      size.width / 2, size.height + 20, // Curve control point
-      size.width, size.height - 50, // End at the bottom right
+      size.width / 2, size.height + 20,
+      size.width, size.height - 50,
     );
-    path.lineTo(size.width, 0); // Top right corner
+    path.lineTo(size.width, 0);
     path.close();
     return path;
   }
-
 
   @override
   bool shouldReclip(CustomClipper<Path> oldClipper) => false;
